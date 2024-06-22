@@ -11353,7 +11353,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/assets/36f2a11077334ef49aea0fc08758de06.svg";
+module.exports = __webpack_require__.p + "static/assets/Communicat-a.png";
 
 /***/ }),
 
